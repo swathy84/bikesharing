@@ -31,12 +31,12 @@ The results of the visualization  are shown below .
 ![main](resources/checkout_times_gender.png)
 
 
-**Trips by Weekday for Each Hour Viz**
+**Trips by Gender (Weekday per Hour) Viz**
 
 ![main](resources/trips_by_gender_weekday_per_hour.png)
 
 
-**Trips by Gender (Weekday per Hour) Viz**
+**Trips by Weekday for Each Hour Viz**
 
 ![main](resources/2.png)
 
